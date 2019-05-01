@@ -1,0 +1,91 @@
+.machine{
+    display: flex;
+    border: 2px solid red;
+    border-bottom: none;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-top: 40px;
+    background: blanchedalmond;
+}
+
+.machine-1 {
+    display: flex;
+    border: 2px solid red;
+    border-top: none;
+    /* border-bottom: none; */
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-top: 40px;
+    background: blanchedalmond;
+}
+
+/* .machine-2 {
+    display: flex;
+    border: 2px solid red;
+    border-top: none;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    padding-top: 40px;
+    background: blanchedalmond;
+} */
+
+.pantalla {
+    border: 2px solid black;
+    padding-left: 110px;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+#p-1, #p-2, #p-3, #p-4 {
+    /* margin-left: 10px; */
+    width: 23px;
+    display: inline;
+    opacity: 0.5;
+    color: black;
+    font-style: oblique;
+    margin-left: 0px;
+    font-size: 12px;
+}
+
+#ex-1, #ex-2, #ex-3, #ex-4, #ex-5, #ex-6, #ex-7, #ex-8 {
+    width: 23px;
+    /* margin-left: 31px; */
+    margin-top: 10px;
+    opacity: 0.5;
+    color: black;
+    font-style: oblique;   
+    margin-left: 2px;
+    font-size: 12px;
+}
+
+.ident {
+    margin-left: 0px;
+    font-size: 10px;
+}
+
+/* #ex-1 {
+    margin-left: 2px;
+    font-size: 12px;
+}
+
+#p-1 {
+    margin-left: 0px;
+    font-size: 12px;
+} */
+
+.ident-ex {
+    font-size: 10px;
+    margin-left: 1px;
+}
+/* .ex-1 {
+    width: 23px;
+    margin-left: 31px;
+    margin-top: 10px;
+    opacity: 0.5;
+    color: black;
+    font-style: oblique;
+} */
+
